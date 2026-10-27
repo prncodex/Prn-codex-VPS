@@ -1,0 +1,17 @@
+{
+  "servers": {},
+  "users": {
+    "admin": {
+      "joined": "2026-10-27T07:58:00.278346",
+      "password_hash": "03aab6f72cc9081a5bc477ae07dab0a9bf012e00ba41c66e8f7ba460a012c853"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "PRNCODEX",
+    "site_name": "PRN CODEX VPS",
+    "auto_restart_interval": 300
+  }
+}
